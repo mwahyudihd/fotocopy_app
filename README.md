@@ -1,20 +1,20 @@
 # Fotocopy App
 
-Fotocopy App, sebuah proyek baru yang dibuat dengan Flutter, menawarkan solusi inovatif untuk manajemen data. Aplikasi ini berfokus pada Master Data (CRUD) untuk Data Jasa. Spesifiknya, aplikasi ini dirancang untuk memudahkan pengelolaan data layanan fotokopi. Dengan demikian, Fotocopy App menjadi alat penting untuk bisnis fotokopi modern.
+Fotocopy App, a new project created with Flutter, offers an innovative solution for data management. The app focuses on Master Data (CRUD) for Services Data. Specifically, the app is designed to make it easier to manage photocopy service data. Thus, Fotocopy App becomes an essential tool for modern copy businesses.
 
 ## Developer
 
-Aplikasi ini dikembangkan oleh Muhammad Wahyudi Hidayatullah (613220016).
+This application was developed by Muhammad Wahyudi Hidayatullah (613220016).
 
-## Teknologi yang Kami Gunakan
+## Teknologies
 
-1. Flutter - Untuk pengembangan aplikasi mobile cross-platform.
-2. MySql - Sebagai database SQL untuk menyimpan data.
-3. [CodeIgniter4(ResfulApi)](https://github.com/mwahyudihd/fotocopy-api)  - Digunakan untuk scripting di sisi server dan klien.
+1. Flutter - mobile cross-platform aplication development.
+2. MySql - as database SQL for saving data.
+3. [CodeIgniter4(ResfulApi)](https://github.com/mwahyudihd/fotocopy-api)  - using for scripting at server and client sides.
 
 ## Cloning
 
-Untuk mengkloning repositori ini, Anda bisa menggunakan perintah berikut:
+For clone the repository, You can to use this command:
 
 ```bash
 git clone https://github.com/mwahyudihd/fotocopy_app.git
